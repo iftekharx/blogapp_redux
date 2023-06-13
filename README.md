@@ -1,3 +1,3 @@
-# This is basic Blog app with CRUDE operation using redux and json place holder api,
+# This is basic Blog app with CRUD operation using redux and json place holder api,
 
 # it uses createAsyncThunk also.
